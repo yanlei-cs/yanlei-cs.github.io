@@ -18,7 +18,7 @@ title: Publications
 
 <LI>  <strong>Yan Lei</strong>, Tiantian Wen, Huan Xie, Lingfeng Fu, Chunyan Liu, Lei Xu, Hongxia Sun. Mitigating the Effect of Class Imbalance in Fault Localization Using Context-aware Generative Adversarial Network. The 31st IEEE/ACM International Conference on Program Comprehension (ICPC), 2023.(CCF-B)
 
-<LI>  Lingfeng Fu, Yan Lei*, Meng Yan, Ling Xu, Zhou Xu, Xiaohong Zhang. MetaFL: Metamorphic Fault Localization Using Weakly Supervised Deep Learning. IET Software (IETS), 2023. (CCF-B)
+<LI>  Lingfeng Fu, <strong>Yan Lei</strong>*, Meng Yan, Ling Xu, Zhou Xu, Xiaohong Zhang. MetaFL: Metamorphic Fault Localization Using Weakly Supervised Deep Learning. IET Software (IETS), 2023. (CCF-B)
 
 <LI>  Zhou Tao, <strong>Yan Lei</strong>*, Huan Xie, Jian Hu. NeuralCCD: Integrating Multiple Features for Neural Coincidental Correctness Detection. The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023. (CCF-B)
 </UL>
