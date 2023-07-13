@@ -12,7 +12,6 @@ My Chinese homepage can be found at [here](http://www.cse.cqu.edu.cn/info/2096/4
 
 ## Contact Information
 
-School of Big Data & Software Engineering, Chongqing University, Chongqing, China
-Changsha, Hunan Province, 410073, P.R.C
-Email: yuyue <at> nudt <dot> edu <dot> cn
+School of Big Data & Software Engineering, Chongqing University, Chongqing, 401331, China 
+Email: yanlei@cque.du.cn
 
