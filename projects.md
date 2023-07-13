@@ -4,8 +4,10 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Principal Investigator
+## Projects
+
 <UL style="LIST-STYLE-TYPE: none">
+<strong>Principal Investigator</strong>
 <LI>Service-Oriented Manufacturing Business Process reengineering, 
 National Grand Research and Development Plan, 2020.11-2023.12.</LI>&nbsp;
 		
