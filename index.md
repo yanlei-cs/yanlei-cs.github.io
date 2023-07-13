@@ -9,3 +9,10 @@ I am an associate professor at School of Big Data & Software Engineering, Chongq
 My current research focuses on how to improve developers' productivity, how to improve software quality and how to reduce the effort during software development by analyzing rich software repository data. In terms of the techniques, I am interested in adopting different data analytics techniques, including data mining, information retrieval, machine learning and program analysis.
 
 My Chinese homepage can be found at [here](http://www.cse.cqu.edu.cn/info/2096/4505.htm).
+
+## Contact Information
+
+School of Big Data & Software Engineering, Chongqing University, Chongqing, China
+Changsha, Hunan Province, 410073, P.R.C
+Email: yuyue <at> nudt <dot> edu <dot> cn
+
