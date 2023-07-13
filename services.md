@@ -22,5 +22,6 @@ title: Services
 <LI>Journal of Systems and Software (JSS)</LI>
 <LI>Science China Information Sciences</LI>
 <LI>Journal of Software</LI>
+<LI>Journal of Computer</LI>
 </UL>
   
