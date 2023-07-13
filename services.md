@@ -4,9 +4,8 @@ permalink: /services/index.html
 title: Services
 ---
 
-## Services 
+## Journal Referee 
 <UL style="LIST-STYLE-TYPE: none">
-<Strong>Journal Referee:</Strong>
 <LI>IEEE Transactions on Software Engineering (TSE)</LI>
 <LI>ACM Transactions on Software Engineering and Methodology (TOSEM)</LI> 
 <LI>IEEE Transactions on Reliability (TR)</LI>
@@ -19,8 +18,10 @@ title: Services
 <LI>Software Testing, Verification and Reliability (STVR)</LI>
 <LI>Journal of Software</LI>
 <LI>Journal of Computer</LI>
+ </UL>
  
-<strong>Program/Organizing Committee Member:</stong>
+##Program/Organizing Committee Member
+<UL style="LIST-STYLE-TYPE: none">
 <LI>SANER 2023</LI>
 <LI>Internetware 2023</LI> 
 <LI>APSEC 2023</LI>
