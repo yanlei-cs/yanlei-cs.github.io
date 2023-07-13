@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+## Publications
 
 ## 2023
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
