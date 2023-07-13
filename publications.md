@@ -10,12 +10,7 @@ title: Publications
 
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
 		
-		<!-- <LI>Ying Wang, Peng Sun, Lin Pei,<strong>Yue Yu (corresponding author)</strong>, Chang Xu, Shing-Chi Cheung, Hai Yu, Zhiliang Zhu.
-		<strong>PLUMBER: Boosting the Propagation of Vulnerability Fixes in the npm Ecosystem</strong>.	
-		IEEE Transactions on Software Engineering (TSE), 2023. (SCI, CCF-A)
-		[<A href="res/paper/Plumber-TSE2023.pdf">pdf</A>][<A href="http://plumber-npm.com/">Plumber</A>] -->
-		
-<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei**<\strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023, accepted. (CCF-A)
+<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei<\strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023, accepted. (CCF-A)
 		
 				
 		<LI>Teng Wang, Zhouyang Jia, Shanshan Li, Si Zheng, <strong>Yue Yu</strong>, Erci Xu, Shaoliang Peng, Xiangke Liao.
