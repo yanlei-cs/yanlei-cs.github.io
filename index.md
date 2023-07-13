@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me
-<p>I am an associate professor at School of Big Data & Software Engineering, Chongqing University, China. Preivously, I got my Ph.D degree under the supervision of [Prof. Xiaoguang Mao](https://www.researchgate.net/profile/Xiaoguang-Mao). Fortunately, I have got the great opportunity to visit UC Davis advised by Prof. [Zhenddong Su](https://people.inf.ethz.ch/suz/).<\p> 
+<p>I am an associate professor at School of Big Data & Software Engineering, Chongqing University, China. Preivously, I got my Ph.D degree under the supervision of [Prof. Xiaoguang Mao](https://www.researchgate.net/profile/Xiaoguang-Mao). Fortunately, I have got the great opportunity to visit UC Davis advised by Prof. [Zhenddong Su](https://people.inf.ethz.ch/suz/).</p> 
 
 <p>My current research focuses on how to improve developers' productivity, how to improve software quality and how to reduce the effort during software development by analyzing rich software repository data. In terms of the techniques, I am interested in adopting different data analytics techniques, including data mining, information retrieval, machine learning and program analysis.</p>
 
