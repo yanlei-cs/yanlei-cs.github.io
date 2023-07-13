@@ -6,9 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 16th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
-## Thesis
+## 2023
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Prof. Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab
 
