@@ -6,7 +6,7 @@ title: Teaching
 
 ## Undergrandate 
 <UL style="LIST-STYLE-TYPE: none">
-<LI>Software Testing<br>
+<LI><strong>Software Testing</strong><br>
 Spring 2018, Spring 2019, Spring 2020, Spring 2021, Spring 2022, and Spring 2023</LI>
 <LI>Introduction of Software Engineering<br>
 Spring 2023</LI>
