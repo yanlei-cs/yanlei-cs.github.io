@@ -10,52 +10,15 @@ title: Publications
 
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
 		
-<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei<\strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023, accepted. (CCF-A)
-		
-				
-		<LI>Teng Wang, Zhouyang Jia, Shanshan Li, Si Zheng, <strong>Yue Yu</strong>, Erci Xu, Shaoliang Peng, Xiangke Liao.
-		<strong>Understanding and Detecting On-the-Fly Configuration Bugs</strong>.		
-		The 45th International Conference on Software Engineering (ICSE 2023), Melbourne, Australia. (CCF-A, <strong>Distinguished Paper Award</strong>)
-		[<A href="res/paper/Configbugs-ICSE2023.pdf">pdf</A>]
-		
-		<LI>Yingwei Ma, <strong>Yue Yu (corresponding author)</strong>, Shanshan Li, Zhouyang Jia, Jun Ma, Rulin Xu, Wei Dong, Xiangke Liao.
-		<strong>MulCS: Towards a Unified Deep Representation for Multilingual Code Search</strong>.		
-		The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023), Macao, China. (CCF-B, <strong>Distinguished Paper Award</strong>)
-		[<A href="res/paper/MulCS-saner2023.pdf">pdf</A>]
-		
-		<LI>Bo Lv, Xin Liu, Shaojie Dai, Nayu Liu, Fan Yang, Ping Luo and <strong>Yue Yu (corresponding author)</strong>.
-		<strong>DSP: Discriminative Soft Prompts for Zero-Shot Entity and Relation Extraction</strong>.
-		The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada. (CCF-A)
-		[<A href="res/paper/DSP-ACL2023.pdf">pdf</A>]
-		
-		<LI>Zhuo Zhang, Yuanhang Yang, Yong Dai, Qifan Wang, <strong>Yue Yu</strong>, Lizhen Qu and Zenglin Xu.
-		<strong>FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning Methods of Pre-trained Language Models</strong>.
-		The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada. (CCF-A)
-		[<A href="res/paper/FedPETuning-ACL2023.pdf">pdf</A>]
-		
-		<LI>Yibo Wang, Ying Wang, Tingwei Zhang, <strong>Yue Yu</strong>, Shing-Chi Cheung, Hai Yu, Zhiliang Zhu.
-		<strong>Can Machine Learning Pipelines Be Better Configured?</strong>.
-		The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023), San Francisco, USA. (CCF-A)
-		[<A href="">pdf</A>]	
+<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei</strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023. (CCF-A)
 
-		<LI>Haochen He, Erci Xu, Shanshan Li, Zhouyang Jia, Si Zheng, <strong>Yue Yu</strong>, Jun Ma, Xiangke Liao.
-		<strong>When Database Meets New Storage Devices: Understanding and Exposing Performance Mismatches via Configurations</strong>.		
-		The 49th International Conference on Very Large Data Bases (VLDB 2023), Vancouver, Canada. (CCF-A)
-		[<A href="res/paper/DBConf-vldb23.pdf">pdf</A>]
-		
-		<LI>Yupeng Yin, Xianglong Zhang, Huanle Zhang, Feng Li, <strong>Yue Yu</strong>, Xiuzhen Cheng, Pengfei Hu.
-		<strong>Ginver: Generative Model Inversion Attacks Against Collaborative Inference</strong>.		
-		ACM Web Conference (WWW 2023), Austin, USA. (CCF-A)
-		[<A href="res/paper/WWW23_Ginver.pdf">pdf</A>]		
-		
-		<LI>Jinglong Luo, Yehong Zhang, Jiaqi Zhang, Shuang Qin,<strong>Yue Yu</strong>, Hui Wang, Zenglin Xu.
-		<strong>Practical Privacy-Preserving Gaussian Process Regression via Secret Sharing</strong>.		
-		The 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023), Pittsburgh, USA. (CCF-B)
-		[<A href="res/paper/PPGPR-UAI2023.pdf">pdf</A>]	
-		
-		<LI>Xiaoqi Wang, Yingjie Cheng, Yaning Yang, <strong>Yue Yu</strong>, Fei Li, Shaoliang Peng.
-		<strong>Multitask joint strategies of self-supervised representation learning on biomedical networks for drug discovery</strong>.		
-		Nature Machine Intelligence, 2023.
-		[<A href="res/paper/MSSL2drug-NMI.pdf">pdf</A>][<A href="res/paper/MSSL2drug-supplementary.pdf">Supplementary Materials</A>]
-		
-	 </UL>
+<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Xin Xia, David Lo. Context-Aware Neural Fault Localization. IEEE Transactions on Software Engineering (TSE), 2023. (CCF-A)
+
+<LI>  Jiang Wu, <strong>Yan Lei</strong>*, Zhuo Zhang, Xiankai Meng, Deheng Yang, Pan Li, Jiayu He, Xiaoguang Mao. Mantra: Mutation Testing of Hardware Design Code Based on Real Bugs. The 60th Design Automation Conference (DAC), 2023. (CCF-A)
+
+<LI>  <strong>Yan Lei</strong>, Tiantian Wen, Huan Xie, Lingfeng Fu, Chunyan Liu, Lei Xu, Hongxia Sun. Mitigating the Effect of Class Imbalance in Fault Localization Using Context-aware Generative Adversarial Network. The 31st IEEE/ACM International Conference on Program Comprehension (ICPC), 2023.(CCF-B)
+
+<LI>  Lingfeng Fu, Yan Lei*, Meng Yan, Ling Xu, Zhou Xu, Xiaohong Zhang. MetaFL: Metamorphic Fault Localization Using Weakly Supervised Deep Learning. IET Software (IETS), 2023. (CCF-B)
+
+<LI>  Zhou Tao, <strong>Yan Lei</strong>*, Huan Xie, Jian Hu. NeuralCCD: Integrating Multiple Features for Neural Coincidental Correctness Detection. The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2023. (CCF-B)
+</UL>
