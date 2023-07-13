@@ -21,7 +21,6 @@ title: Services
 <LI>Journal of Computer</LI>
  
 <strong>Program/Organizing Committee Member</stong>
-<UL style="LIST-STYLE-TYPE: none">
 <LI>SANER 2023</LI>
 <LI>Internetware 2023</LI> 
 <LI>APSEC 2023</LI>
