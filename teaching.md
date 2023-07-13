@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards-zh/index.html
-title: Awards-zh
+permalink: /teaching/index.html
+title: Teaching
 ---
 
 ## 奖学金
