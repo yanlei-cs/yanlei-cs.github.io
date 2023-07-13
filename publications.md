@@ -35,11 +35,11 @@ title: Publications
 
 <LI> Deheng Yang, <strong>Yan Lei</strong>*, Xiaoguang Mao*, Yuhua Qi, and Xin Yi. Seeing the Whole Elephant: Systematically Understanding and Uncovering Evaluation Biases in Automated Program Repair. ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, accepted. (CCF-A)
 
-<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Meng Yan, Yue Yu, Jiachi Chen, Shangwen Wang, Xiaoguang Mao. Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach. The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022, accepted. (CCF-A)
+<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Meng Yan, Yue Yu, Jiachi Chen, Shangwen Wang, Xiaoguang Mao. Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach. The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022. (CCF-A)
 
-<LI> Deheng Yang, Xiaoguang Mao, Liqian Chen, Xuezheng Xu, <strong>Yan Lei</strong>, David Lo, Jiayu He. TransplantFix: Graph Differencing-based Code Transplantation for Automated Program Repair. The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022, accepted. (CCF-A)
+<LI> Deheng Yang, Xiaoguang Mao, Liqian Chen, Xuezheng Xu, <strong>Yan Lei</strong>, David Lo, Jiayu He. TransplantFix: Graph Differencing-based Code Transplantation for Automated Program Repair. The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2022. (CCF-A)
 
-<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Xin Xia, Xiaohong Zhang. Improving Fault Localization Using Model-domain Synthesized Failing Test Generation. The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022, accepted. (CCF-B)
+<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Xin Xia, Xiaohong Zhang. Improving Fault Localization Using Model-domain Synthesized Failing Test Generation. The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2022. (CCF-B)
 
 <LI> Junji Yu, <strong>Yan Lei</strong>*, Huan Xie, Lingfeng Fu, Chunyan Liu. Context-based Cluster Fault Localization. The 30th ACM/IEEE International Conference on Program Comprehension (ICPC), 2022. (CCF-B)
 
