@@ -6,7 +6,7 @@ title: Services
 
 ## Services 
 <UL style="LIST-STYLE-TYPE: none">
-<Strong>Journal Referee</Strong>
+<Strong>Journal Referee:</Strong>
 <LI>IEEE Transactions on Software Engineering (TSE)</LI>
 <LI>ACM Transactions on Software Engineering and Methodology (TOSEM)</LI> 
 <LI>IEEE Transactions on Reliability (TR)</LI>
@@ -20,7 +20,7 @@ title: Services
 <LI>Journal of Software</LI>
 <LI>Journal of Computer</LI>
  
-<strong>Program/Organizing Committee Member</stong>
+<strong>Program/Organizing Committee Member:</stong>
 <LI>SANER 2023</LI>
 <LI>Internetware 2023</LI> 
 <LI>APSEC 2023</LI>
