@@ -3,42 +3,26 @@ layout: page
 permalink: /services/index.html
 title: Services
 ---
-
-## Scholarships
-
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.
-
-## Competitions
-
-- June 2023：**First Prize (Provincial Championship)** in Youth Science Popularization Innovation Project Competition
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling
-
-## Honors
-
-- May 2023：Outstanding Student Leaders of Fuzhou University
-- Sep 2022：Nomination for China National Scholarship (3/1200)
-- June 2022：Nomination for China Telecom Scholarship (1/900)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- May 2021：Merit Student of Fuzhou University
-
-## Services
-
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit
-
-Lastest Update: 21th May 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/)
+<UL style="LIST-STYLE-TYPE: none">
+    <strong>Reviewer: </strong></LI>
+		<LI>
+		Conference: FSE 2021, AAAI 2019-2021, IJCAI 2019, CHI 2018, CCCC 2016, ICPC 2015, APSEC 2015, Internetware 2015<br>
+		</LI>
+		<LI>
+		Journal: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), 
+		IEEE Transactions on Reliability (TR), ACM Transactions on Internet Technology (TOIT), 
+		Empirical Software Engineering (ESE), Information and Software Technology (IST), Journal of Systems and Software (JSS),
+		Science China Information Sciences, Journal of Software<br>
+		</LI>
+		
+		<LI>
+		<strong>Program/Organizing Committee Member: </strong>
+		<a href="https://saner2023.must.edu.mo/programCommittee">SANER 2023</a>
+		<a href="https://2021.esec-fse.org/committee/fse-2021-organizing-committee">FSE 2021</a>,
+	    <a href="http://2017.msrconf.org/#/challenge">MSR 2017</a>, 
+		<a href="https://research.comnet.aalto.fi/ICA3PP2017/tpcommittee.html">ICA3PP 2017</a>,
+		<a href="http://www.smart-world.org/2018/atc/oc.php">ATC 2018</a></LI>
+		<br>
+		<LI>
+		
+      </UL>
