@@ -53,3 +53,20 @@ title: Publications
 
 <LI> Zhongyang Deng, Ling Xu, Chao Liu, Meng Yan, Zhou Xu, <strong>Yan Lei</strong>. Fine-grained Co-Attentive Representation Learning for Semantic Code Search. The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022. (CCF-B)
 </UL>
+
+## 2021
+
+<UL style="LIST-STYLE-TYPE: none" class=pubs>
+
+<LI> Hongjun Wu, Zhuo Zhang, Shangwen Wang,  <strong>Yan Lei</strong>, Bo Lin, Yihao Qin, Haoyu Zhang, Xiaoguang Mao. Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques. The 32nd International Symposium on Software Reliability Engineering (ISSRE), 2021. (CCF-B)
+
+<LI> Zhaolin Luo, Ling Xu, Zhou Xu, Meng Yan, <strong>Yan Lei</strong>, Can Li. Contextual-Semantic-Aware Linkable Knowledge Prediction in Stack Overflow via Self-Attention. The 32nd International Symposium on Software Reliability Engineering (ISSRE), 2021. (CCF-B)
+
+<LI> Deheng Yang,  <strong>Yan Lei</strong>*, Xiaoguang Mao, David Lo, Huan Xie, Meng Yan. Is the Ground Truth Really Accurate? Dataset Purification for Automated Program Repair. The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2021. (CCF-B)
+
+<LI> Ling Xu, Huanhuan Yang, Chao Liu, Jianhang Shuai, Meng Yan, <strong>Yan Lei</strong>, Zhou Xu. Two-Stage Attention-Based Model for Code Search with Textual and Structural Features. The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2021. (CCF-B)
+
+<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Ling Xu, Xiaohong Zhang. A Study of Effectiveness of Deep Learning in Locating Real Faults. Information and Software Technology (IST), 131, 2021. (CCF-B)
+
+<LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Ling Xu, Junhao Wen. Improving Deep-Learning-based Fault Localization with Resampling. Journal of Software: Evolution and Process (JSEP), 2021, 33(3): 1-18. (CCF-B)
+</UL>
