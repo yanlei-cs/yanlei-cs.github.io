@@ -10,7 +10,7 @@ My current research interests focus on how to improve software quality and how t
 <UL style="LIST-STYLE-TYPE: none">
 <LI>Fault Localization and Program Repair</LI>
 <LI>Data Science for SE</LI> 
-<LI>Testing and Debugging Deep Leanring Systems and HDL Programs</LI>
+<LI>Testing/Debugging Deep Leanring Systems and HDL Programs</LI>
 </UL>
 </br>
 My Chinese homepage can be found at <a href="http://www.cse.cqu.edu.cn/info/2096/4505.htm">here</a>.</P>
