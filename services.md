@@ -19,9 +19,8 @@ title: Services
 <LI>Software Testing, Verification and Reliability (STVR)</LI>
 <LI>Journal of Software</LI>
 <LI>Journal of Computer</LI>
-</UL>
-
-## Program/Organizing Committee Member
+ 
+<strong>Program/Organizing Committee Member</stong>
 <UL style="LIST-STYLE-TYPE: none">
 <LI>SANER 2023</LI>
 <LI>Internetware 2023</LI> 
