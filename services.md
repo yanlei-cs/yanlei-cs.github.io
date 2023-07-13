@@ -12,9 +12,10 @@ title: Services
 <LI>Empirical Software Engineering (EMSE)</LI>
 <LI>Information and Software Technology (IST)</LI>
 <LI>Journal of Systems and Software (JSS)</LI>
-<LI>Science China Information Sciences</LI>
+<LI>Science China Information Sciences (SCIS)</LI>
+<LI>Software: Practice and Experience (SPE)</LI>
+<LI>IET Software(IETS)</LI>
 <LI>Software Testing, Verification and Reliability (STVR)</LI>
-<LI>(SPE)</LI>
 <LI>Journal of Software</LI>
 <LI>Journal of Computer</LI>
 </UL>
