@@ -7,7 +7,6 @@ title: Publications
 # Publications
 
 ## 2023
-
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
 		
 <LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei</strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023. (CCF-A)
@@ -24,7 +23,6 @@ title: Publications
 </UL>
 
 ## 2022
-
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
 		
 <LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Ting Su, Meng Yan, Xiaoguang Mao,Yue Yu. Influential Global and Local Contexts Guided Trace Representation for Fault Localization. ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, accepted. (CCF-A)
@@ -55,7 +53,6 @@ title: Publications
 </UL>
 
 ## 2021
-
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
 
 <LI> Hongjun Wu, Zhuo Zhang, Shangwen Wang,  <strong>Yan Lei</strong>, Bo Lin, Yihao Qin, Haoyu Zhang, Xiaoguang Mao. Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques. The 32nd International Symposium on Software Reliability Engineering (ISSRE), 2021. (CCF-B)
