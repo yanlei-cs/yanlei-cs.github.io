@@ -1,5 +1,6 @@
 ---
 layout: page
+align: left
 ---
 
 ## About Me
