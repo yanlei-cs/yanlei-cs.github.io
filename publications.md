@@ -15,10 +15,8 @@ title: Publications
 		IEEE Transactions on Software Engineering (TSE), 2023. (SCI, CCF-A)
 		[<A href="res/paper/Plumber-TSE2023.pdf">pdf</A>][<A href="http://plumber-npm.com/">Plumber</A>] -->
 		
-		<LI>Shuzheng Gao, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo, <strong>Yue Yu</strong>.
-		<strong>Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension</strong>.		
-		The 45th International Conference on Software Engineering (ICSE 2023), Melbourne, Australia. (CCF-A)
-		[<A href="res/paper/NeuralCode-ICSE2023.pdf">pdf</A>]
+<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, **Yan Lei**, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023, accepted. (CCF-A)
+		
 				
 		<LI>Teng Wang, Zhouyang Jia, Shanshan Li, Si Zheng, <strong>Yue Yu</strong>, Erci Xu, Shaoliang Peng, Xiangke Liao.
 		<strong>Understanding and Detecting On-the-Fly Configuration Bugs</strong>.		
