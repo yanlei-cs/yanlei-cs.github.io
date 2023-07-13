@@ -13,5 +13,5 @@ align: left
 ## Contact Information
 
 <P>School of Big Data & Software Engineering, Chongqing University, Chongqing, 401331, China.<br>
-Email: yanlei[at]cque.du.cn
+Email: yanlei[at]cqu.edu.cn
 </P>
