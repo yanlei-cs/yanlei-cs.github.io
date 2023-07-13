@@ -14,7 +14,7 @@ National Natural Science Foundation of China, 2018.01-2020.12.</LI>&nbsp;
 		
 <LI>Research on Fault Localization Techniques for Automated Program Repair, National Natural Science Foundation of China, 2017.01-2019.12.</LI>&nbsp;
 
-<LI>Data Fusion Technology for Smart Megalopolis, ChongqingTechnology Innovation and Application DevelopmentProject, 2020.01-2021.12.</LI>&nbsp;
+<LI>Data Fusion Technology for Smart Megalopolis, Chongqing Technology Innovation and Application DevelopmentProject, 2020.01-2021.12.</LI>&nbsp;
 
-<LI>Research on Data Brains, ChongqingTechnology Innovation and Application DevelopmentProject, 2020.01-2021.12.</LI>&nbsp;
+<LI>Research on Data Brains, Fundamental Research Funds for the Central Universities, 2019.01-2021.12.</LI>&nbsp;
 </UL>
