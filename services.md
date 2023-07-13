@@ -9,10 +9,16 @@ title: Services
 <LI>Internetware 2023<\LI> 
 <LI>APSEC 2023<\LI>
 <LI>Chinasoft 2021<\LI>
+<\UL>
 
-<\br><strong>Journal Referee</strong>: 
-<LI>IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), 
-IEEE Transactions on Reliability (TR), Empirical Software Engineering (EMSE), Information and Software Technology (IST), Journal of Systems and Software (JSS),
-Science China Information Sciences, Journal of Software</LI>
+## Journal Referee 
+<UL style="LIST-STYLE-TYPE: none">
+<LI>IEEE Transactions on Software Engineering (TSE)<\LI>
+<LI>ACM Transactions on Software Engineering and Methodology (TOSEM)<\LI> 
+<LI>IEEE Transactions on Reliability (TR)<\LI>
+<LI>Empirical Software Engineering (EMSE)<\LI>
+<LI>Information and Software Technology (IST)<\LI>
+<LI>Journal of Systems and Software (JSS)<\LI>
+<LI>Science China Information Sciences, Journal of Software</LI>
 </UL>
   
