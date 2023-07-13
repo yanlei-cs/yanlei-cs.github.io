@@ -16,16 +16,8 @@ Fall 2018, Fall 2019, and Fall 2020</LI>
 ## Graduate
 <LI>Advanced Software Testing (International Students)<br>
 Fall 2019, Fall 2020, Fall 2021, and Fall 2022<br></LI>
-<LI>Advanced Software Management
-Fall 2022<br></LI> 
-<LI>IEEE Transactions on Reliability (TR)</LI>
-<LI>Empirical Software Engineering (EMSE)</LI>
-<LI>Information and Software Technology (IST)</LI>
-<LI>Journal of Systems and Software (JSS)</LI>
-<LI>Science China Information Sciences (SCIS)</LI>
-<LI>Software: Practice and Experience (SPE)</LI>
-<LI>IET Software(IETS)</LI>
-<LI>Software Testing, Verification and Reliability (STVR)</LI>
-<LI>Journal of Software</LI>
-<LI>Journal of Computer</LI>
+<LI>Advanced Software Management<br>
+Fall 2022</LI> 
+<LI>Software Architecture (International Students)<br>
+Spring 2018</LI>
  </UL>
