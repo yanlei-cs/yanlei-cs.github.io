@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me
- <TR><TD>
+
 <P>
   I am an associate professor at School of Big Data & Software Engineering, Chongqing University, China. Preivously, I got my Ph.D degree under the supervision of <a href="https://www.researchgate.net/profile/Xiaoguang-Mao">Prof. Xiaoguang Mao</a>. Fortunately, I have got the great opportunity to visit UC Davis advised by <a href="https://people.inf.ethz.ch/suz/">Prof. Zhendong Su</a>.
 </P> 
@@ -15,7 +15,7 @@ My current research focuses on how to improve developers' productivity, how to i
 <P>
 My Chinese homepage can be found at <a href="http://www.cse.cqu.edu.cn/info/2096/4505.htm">here</a>.
 </P>
-</TD></TR>
+
 
 ## Contact Information
 
@@ -24,4 +24,3 @@ School of Big Data & Software Engineering, Chongqing University, Chongqing, 4013
 <br>
 Email: yanlei[at]cque.du.cn
 </P>
-</TR></TD>
