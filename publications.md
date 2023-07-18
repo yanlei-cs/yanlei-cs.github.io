@@ -8,7 +8,9 @@ title: Publications
 
 ## 2023
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
-		
+
+<LI>Weifeng Sun, Hongyan Li, Meng Yan, <strong>Yan Lei</strong>strong>, Hongyu Zhang. Revisiting and Improving Retrieval-Augmented Deep Assertion Generation. The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023. (CCF-A)</LI>
+  
 <LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Xin Xia, David Lo. Context-Aware Neural Fault Localization. IEEE Transactions on Software Engineering (TSE), 2023. (CCF-A)</LI>
 
 <LI>  Jiang Wu, <strong>Yan Lei</strong>*, Zhuo Zhang, Xiankai Meng, Deheng Yang, Pan Li, Jiayu He, Xiaoguang Mao. Mantra: Mutation Testing of Hardware Design Code Based on Real Bugs. The 60th Design Automation Conference (DAC), 2023. (CCF-A)</LI>
