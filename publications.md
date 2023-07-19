@@ -11,7 +11,7 @@ title: Publications
 
 <LI>Weifeng Sun, Hongyan Li, Meng Yan, <strong>Yan Lei</strong>, Hongyu Zhang. Revisiting and Improving Retrieval-Augmented Deep Assertion Generation. The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023. (CCF-A)</LI>
 
-<LI> Weifeng Sun, Meng Yan, Zhongxin Liu, Xin Xia, <strong>Yan Lei<\strong>, David Lo. "Revisiting the Identification of the Co-Evolution of Production and Test Code". ACM Transactions on Software Engineering and Methodology (TOSEM), 2023. (CCF-A)</LI>
+<LI> Weifeng Sun, Meng Yan, Zhongxin Liu, Xin Xia, <strong>Yan Lei</strong>strong>, David Lo. "Revisiting the Identification of the Co-Evolution of Production and Test Code". ACM Transactions on Software Engineering and Methodology (TOSEM), 2023. (CCF-A)</LI>
   
 <LI> Zhuo Zhang, <strong>Yan Lei</strong>*, Xiaoguang Mao, Meng Yan, Xin Xia, David Lo. Context-Aware Neural Fault Localization. IEEE Transactions on Software Engineering (TSE), 2023. (CCF-A)</LI>
 
