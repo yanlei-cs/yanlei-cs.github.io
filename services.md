@@ -14,7 +14,7 @@ title: Services
 <LI>Journal of Systems and Software (JSS)</LI>
 <LI>Science China Information Sciences (SCIS)</LI>
 <LI>Software: Practice and Experience (SPE)</LI>
-<LI>IET Software(IETS)</LI>
+<LI>IET Software (IETS)</LI>
 <LI>Software Testing, Verification and Reliability (STVR)</LI>
 <LI>Journal of Software</LI>
 <LI>Journal of Computer</LI>
