@@ -17,7 +17,7 @@ title: Publications
 
 <LI>  Jiang Wu, <strong>Yan Lei</strong>*, Zhuo Zhang, Xiankai Meng, Deheng Yang, Pan Li, Jiayu He, Xiaoguang Mao. Mantra: Mutation Testing of Hardware Design Code Based on Real Bugs. The 60th Design Automation Conference (DAC), 2023. (CCF-A)</LI>
 
-<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei</strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OPPSLA), 2023. (CCF-A)</LI>
+<LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei</strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), 2023. (CCF-A)</LI>
 
 <LI>  <strong>Yan Lei</strong>, Tiantian Wen, Huan Xie, Lingfeng Fu, Chunyan Liu, Lei Xu, Hongxia Sun. Mitigating the Effect of Class Imbalance in Fault Localization Using Context-aware Generative Adversarial Network. The 31st IEEE/ACM International Conference on Program Comprehension (ICPC), 2023.(CCF-B)</LI>
 
