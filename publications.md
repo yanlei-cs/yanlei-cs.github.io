@@ -19,6 +19,10 @@ title: Publications
 
 <LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei</strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), 2023. (CCF-A)</LI>
 
+<LI> Maojin Li, <strong>Yan Lei</strong>*, Huan Xie, Jiaguo Wang, Chunyan Liu, Zhengxiong Deng. Contrastive Coincidental Correctness Representation Learning. The 34th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023. (CCF-B)</LI>
+
+<LI> Jiaying Li, <strong>Yan Lei</strong>*, Shanshan Li*, Haifang Zhou, Yue Yu, Zhouyang Jia, Yingwei Ma, Teng Wang. A Two-Stage Framework for Ambiguous Classification in Software Engineering. The 34th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023. (CCF-B)</LI>
+
 <LI>  <strong>Yan Lei</strong>, Tiantian Wen, Huan Xie, Lingfeng Fu, Chunyan Liu, Lei Xu, Hongxia Sun. Mitigating the Effect of Class Imbalance in Fault Localization Using Context-aware Generative Adversarial Network. The 31st IEEE/ACM International Conference on Program Comprehension (ICPC), 2023.(CCF-B)</LI>
 
 <LI>  Lingfeng Fu, <strong>Yan Lei</strong>*, Meng Yan, Ling Xu, Zhou Xu, Xiaohong Zhang. MetaFL: Metamorphic Fault Localization Using Weakly Supervised Deep Learning. IET Software (IETS), 2023. (CCF-B)</LI>
