@@ -3,7 +3,7 @@ layout: page
 align: left
 ---
 
-## Yan Lei's Homepage
+## About Me
 
 <P>I am an associate professor at School of Big Data & Software Engineering, Chongqing University, China. Preivously, I got my Ph.D degree under the supervision of <a href="https://www.researchgate.net/profile/Xiaoguang-Mao">Prof. Xiaoguang Mao</a>. Fortunately, I have got the great opportunity to visit UC Davis advised by <a href="https://people.inf.ethz.ch/suz/">Prof. Zhendong Su</a>.<br>
 My current research interests focus on how to improve software quality and how to reduce the effort during software development by developing effective methodologies, techniques and tools.<br>
