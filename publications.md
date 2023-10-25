@@ -19,6 +19,8 @@ title: Publications
 
 <LI> Shangwen Wang, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, <strong>Yan Lei</strong>, Xiaoguang Mao. Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network. The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), 2023. (CCF-A)</LI>
 
+<LI> Deheng Yang, Kui Liu, <strong>Yan Lei</strong>*, Li Li, Huan Xie, Chunyan Liu, Zhenyu Wang, Xiaoguang Mao, Tegawendé F. Bissyandé. Demystifying API Misuses in Deep Learning Applications. Empirical Software Engineering (EMSE), 2023, accepted. (CCF-B)</LI> 
+
 <LI> Maojin Li, <strong>Yan Lei</strong>*, Huan Xie, Jiaguo Wang, Chunyan Liu, Zhengxiong Deng. Contrastive Coincidental Correctness Representation Learning. The 34th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023. (CCF-B)</LI>
 
 <LI> Jiaying Li, <strong>Yan Lei</strong>*, Shanshan Li*, Haifang Zhou, Yue Yu, Zhouyang Jia, Yingwei Ma, Teng Wang. A Two-Stage Framework for Ambiguous Classification in Software Engineering. The 34th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023. (CCF-B)</LI>
