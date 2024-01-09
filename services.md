@@ -22,6 +22,8 @@ title: Services
  
 ## Program/Organizing Committee Member
 <UL style="LIST-STYLE-TYPE: none">
+<LI>ASE 2024</LI>
+<LI>SEAMS 2024</LI>
 <LI>SANER 2023</LI>
 <LI>Internetware 2023</LI> 
 <LI>APSEC 2023</LI>
