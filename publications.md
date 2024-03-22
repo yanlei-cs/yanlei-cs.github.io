@@ -8,7 +8,7 @@ title: Publications
 
 ## 2024
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
-<LI>Jiaguo Wang, <strong>Yan Lei</strong>*, Maojin Li, Guanyu Ren, Huan Xie, Shifeng Jin, Junchao Li, Jian Hu. FLAKYRANK: Predicting Flaky Tests Using Augmented Learning to Rank. The 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. (CCF-B)</LI>
+<LI>Jiaguo Wang, <strong>Yan Lei</strong>*, Maojin Li, Guanyu Ren, Huan Xie, Shifeng Jin, Junchao Li, Jian Hu. FLAKYRANK: Predicting Flaky Tests Using Augmented Learning to Rank. The 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. (CCF-B, Distinguished Paper Award)</LI>
 	
  <LI>Zhenyu Wu, Deheng Yang, <strong>Yan Lei</strong>*, Huan Xie, Minghua Tang, Maojin Li. LabelRepair: Sequence Labelling for Compilation Errors Repair. The 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. (CCF-B)</LI>	
 </UL>
