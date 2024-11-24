@@ -8,16 +8,18 @@ title: Publications
 
 ## 2024
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
-<LI>Huan Xie, <strong>Yan Lei</strong>*, Maojin Li, Meng Yan, Sheng Zhang. Combining Coverage and Expert Features with Semantic Representation for Coincidental Correctness Detection. The IEEE/ACM International Conference on Automated Software Engineering (ASE), 2024. (CCF-A, ACM SIGSOFT Distinguished Paper Award)</LI>
+<LI>Huan Xie, <strong>Yan Lei</strong>*, Maojin Li, Meng Yan, Sheng Zhang. Combining Coverage and Expert Features with Semantic Representation for Coincidental Correctness Detection. The IEEE/ACM International Conference on Automated Software Engineering (ASE), 2024. (CCF-A, <strong>ACM SIGSOFT Distinguished Paper Award</strong>)</LI>
 	
 <LI>Huan Xie, <strong>Yan Lei</strong>*, Meng Yan, Shanshan Li, Xiaoguang Mao, Yue Yu, David Lo. Towards More Precise Coincidental Correctness Detection with Deep Semantic Learning. IEEE Transactions on Software Engineering (TSE), 2024, accepted. (CCF-A)</LI>
  
 <LI>Weifeng Sun, Zhenting Guo, Meng Yan, Zhongxin Liu, <strong>Yan Lei</strong>, Hongyu Zhang. Method-Level Test-to-Code Traceability Link Construction by Semantic Correlation Learning. IEEE Transactions on Software Engineering (TSE), 2024, accepted. (CCF-A)</LI>	
 	
 <LI>Haoran Liu, Zhouyang Jia, Shanshan Li, <strong>Yan Lei</strong>, Yue Yu,Yu Jiang, Xiaoguang Mao, Xiangke Liao. Cut to the Chase: An Error-Oriented Approach to Detect Error-Handling Bugs. The ACM International Conference on the Foundations of Software Engineering (FSE), 2024. (CCF-A)</LI>	
+
+<LI>Lingfeng Fu , Zhenyu Wu , <strong>Yan Lei</strong>*, Meng Yan. MetaMFL: Metamorphic Multiple Fault Localization Without Test Oracles. IEEE Transactions on Reliability (TR), 2024, accepted.</LI>
  
-<LI>Jiaguo Wang, <strong>Yan Lei</strong>*, Maojin Li, Guanyu Ren, Huan Xie, Shifeng Jin, Junchao Li, Jian Hu. FLAKYRANK: Predicting Flaky Tests Using Augmented Learning to Rank. The 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. (CCF-B, IEEE TCSE Distinguished Paper Award)</LI>
-	
+<LI>Jiaguo Wang, <strong>Yan Lei</strong>*, Maojin Li, Guanyu Ren, Huan Xie, Shifeng Jin, Junchao Li, Jian Hu. FLAKYRANK: Predicting Flaky Tests Using Augmented Learning to Rank. The 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. (CCF-B, <strong>IEEE TCSE Distinguished Paper Award</strong>)</LI>
+
  <LI>Zhenyu Wu, Deheng Yang, <strong>Yan Lei</strong>*, Huan Xie, Minghua Tang, Maojin Li. LabelRepair: Sequence Labelling for Compilation Errors Repair. The 31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. (CCF-B)</LI>	
 </UL>
 
