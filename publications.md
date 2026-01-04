@@ -6,6 +6,21 @@ title: Publications
 
 ## Publications
 
+## 2025
+<UL style="LIST-STYLE-TYPE: none" class=pubs>
+<LI>Chunyan Liu, <strong>Yan Lei</strong>*, Huan Xie, Jinping Wang, Yue Yu, David Lo. Survey on Learning-based Dynamic Fault Localization: From Traditional Machine Learning to Large Language Models. ACM Computing Surveys (CSUR), 2025. (IF=28)</LI>
+
+<LI>Zheyuan Li, Zhenyu Wu, <strong>Yan Lei</strong>*, Huan Xie, Maojin Li, Jian Hu. HiFlaky: Hierarchy-aware flakiness classification. Journal of Systems and Software. 2025. (CCF-B)</LI>
+
+<LI>Chunyan Liu, Huan Xie, <strong>Yan Lei</strong>*, Zhenyu Wu, Jinping Wang. Sifting Truth from Coincidences: A Two-Stage Positive and  Unlabeled Learning Model for Coincidental Correctness Detection.The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025. (CCF-A)</LI>
+
+<LI>Huan Xie, Chunyan Liu, <strong>Yan Lei</strong>*, Zhenyu Wu, Jinping Wang. From Sparse to Structured: A Diffusion-Enhanced and Feature-Aligned Framework for Coincidental Correctness Detection. The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025. (CCF-A)</LI>
+
+<LI>Xingpei Li, <strong>Yan Lei</strong>, Zhouyang Jia, Yuanliang Zhang, Haoran Liu, Liqian Chen, Wei Dong, Shanshan Li. Bridging Operator Semantic Inconsistencies: A Source-Level Cross-Framework Model Conversion Approach. The ACM International Conference on the Foundations of Software Engineering (FSE), 2025. (CCF-A)</LI>
+
+<LI>Junyu Chen, Xiuhua Li, Jinping Wang, Huan Xie, Chunyan Liu, Zhenyu Wu, <strong>Yan Lei</strong>*. AgentTCP: A Collaborative Multi-Agent Framework for Change-Aware Test Case Prioritization.The 32nd Asia-Pacific Software Engineering Conference (APSEC), 2025. (CCF-C, <strong>Distinguished Paper Award</strong>)</LI>
+</UL>
+
 ## 2024
 <UL style="LIST-STYLE-TYPE: none" class=pubs>
 <LI>Huan Xie, <strong>Yan Lei</strong>*, Maojin Li, Meng Yan, Sheng Zhang. Combining Coverage and Expert Features with Semantic Representation for Coincidental Correctness Detection. The IEEE/ACM International Conference on Automated Software Engineering (ASE), 2024. (CCF-A, <strong>ACM SIGSOFT Distinguished Paper Award</strong>)</LI>
